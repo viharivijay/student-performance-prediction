@@ -1,2 +1,2 @@
 # Student Performance Prediction
-Sample project structure.
+A Simple sample project structure.
